@@ -29,7 +29,7 @@ Thanks to all [contributors](https://github.com/boltops-tools/awesome-jets/graph
 
 ## Code Formatting
 
-* [RuboCop Jets]([https://github.com/rubocop-hq/rubocop](https://github.com/getjets/jets-rubocop) - A static code analyzer, based on the community Ruby style guide.
+* [RuboCop Jets](https://github.com/getjets/jets-rubocop) - A static code analyzer, based on the community Ruby style guide.
 
 ## Database
 
