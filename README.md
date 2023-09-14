@@ -32,9 +32,6 @@ Thanks to all [contributors](https://github.com/boltops-tools/awesome-jets/graph
 
 * [Dynomite](https://github.com/boltops-tools/dynomite) - A DynamoDB ORM that is ActiveModel compatible.
 
-## Database Tools
-
-* [Scenic Jets](https://github.com/exposwingie/scenic-jets) - Versioned database views for Rails.
 
 ## Error Reporting
 
