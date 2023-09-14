@@ -48,6 +48,7 @@ Thanks to all [contributors](https://github.com/boltops-tools/awesome-jets/graph
 * [Sentry](https://github.com/tongueroo/sentry-jets) - [Sentry](https://sentry.io) is an error tracking service that helps developers monitor and fix crashes in real time.
 
 ## Rails Porting
+
 * [Get Jets](https://github.com/getjets/jets) - Provides afterburners for your Ruby on Rails app development. 
 
 ## Template Engine
