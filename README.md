@@ -8,9 +8,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 Thanks to all [contributors](https://github.com/boltops-tools/awesome-jets/graphs/contributors), you're awesome and this wouldn't be possible without you!
 
+* [Authentication](#authentication)
 * [Database](#database)
 * [Error Reporting](#error-reporting)
 * [Example Projects](#example-projects)
+
+## Authentication 
+* [Revise Auth](https://github.com/jeremiahlukus/revise_auth-jets) - A lightweight authentication solution for Jets.
 
 ## Database
 
