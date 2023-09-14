@@ -10,13 +10,9 @@ Thanks to all [contributors](https://github.com/boltops-tools/awesome-jets/graph
 
 * [API Builder and Discovery](#api-builder-and-discovery)
 * [Authentication](#authentication)
-* [Code Formatting](#code-formatting)
 * [Database](#database)
-* [Database Tools](#database-tools)
 * [Error Reporting](#error-reporting)
-* [Rails Porting](#error-reporting)
 * [Template Engine](#template-engine)
-* [Testing](#testing)
 * [Example Projects](#example-projects)
 
 ## API Builder and Discovery
