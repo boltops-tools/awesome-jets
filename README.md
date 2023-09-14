@@ -27,9 +27,6 @@ Thanks to all [contributors](https://github.com/boltops-tools/awesome-jets/graph
 
 * [Revise Auth](https://github.com/jeremiahlukus/revise_auth-jets) - A lightweight authentication solution for Jets.
 
-## Code Formatting
-
-* [RuboCop Jets](https://github.com/getjets/jets-rubocop) - A static code analyzer, based on the community Ruby style guide.
 
 ## Database
 
@@ -47,18 +44,12 @@ Thanks to all [contributors](https://github.com/boltops-tools/awesome-jets/graph
 * [Rollbar](https://github.com/tongueroo/rollbar-jets) - [Rollbar](https://rollbar.com/) is real-time error reporting and monitoring service.
 * [Sentry](https://github.com/tongueroo/sentry-jets) - [Sentry](https://sentry.io) is an error tracking service that helps developers monitor and fix crashes in real time.
 
-## Rails Porting
-
-* [Get Jets](https://github.com/getjets/jets) - Provides afterburners for your Ruby on Rails app development. 
 
 ## Template Engine
 
 * [Haml Jets](https://github.com/ceritium/haml-jets) - HTML Abstraction Markup Language.
 * [Slim Jets](https://github.com/tongueroo/slim-jets) - Reduce the syntax to the essential parts without becoming cryptic.
 
-## Testing
-
-* [Jets Factory](https://github.com/getjets/jets-factory) - A library for setting up Ruby objects as test data.
 
 ## Example Projects
 
